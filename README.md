@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Jesus Villalba 👋</h1>
 </div>
-<img src="https://i.imgur.com/RAOKV6Z.png">
+<img src="https://i.imgur.com/HtkhdEh.png">
 
 ## About me
 
