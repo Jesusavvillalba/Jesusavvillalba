@@ -8,7 +8,7 @@
 
 
 - 📲 Mobile developer
-- <span class="icon-[noto--technologist-medium-skin-tone]"></span>
+- <iconify-icon icon="noto:technologist-medium-skin-tone"></iconify-icon>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
