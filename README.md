@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Jesus Villalba 👋</h1>
 </div>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/7t6A8uW" data-context="false" ><a href="//imgur.com/a/7t6A8uW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/7gH5Lfp.png">
 
 
 ## Sobre mi
